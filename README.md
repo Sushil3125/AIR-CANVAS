@@ -2,8 +2,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-<!--     <img src="images/logo.png" alt="Logo" width="80" height="80"> -->
-         ![GIF](https://user-images.githubusercontent.com/72722093/156774150-a1c8dced-72c6-451b-822a-b53da049ca55.gif)
+
+![GIF](https://user-images.githubusercontent.com/72722093/156774436-8a394110-87ce-4273-8857-80ca509bc79f.gif)
 
   </a>
 
@@ -60,6 +60,7 @@ landmarks in it. Using the tip of the pointing finger one can interact within th
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+![detection](https://user-images.githubusercontent.com/72722093/156774465-140c9cea-b767-4266-ba11-344db8124e7b.png)
 
 
 ### Built With
