@@ -3,10 +3,11 @@
 <br />
 <div align="center">
 <!--     <img src="images/logo.png" alt="Logo" width="80" height="80"> -->
-          ![grab-landing-page](https://github.com/Sushil3125/AIR-CANVAS/blob/main/GIF/GIF.gif)
+         ![GIF](https://user-images.githubusercontent.com/72722093/156774150-a1c8dced-72c6-451b-822a-b53da049ca55.gif)
+
   </a>
 
-  <h3 align="center">AIR CANVASe</h3>
+  <h3 align="center">AIR CANVAS</h3>
 
 </div>
 
@@ -41,7 +42,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/Sushil3125/AIR-CANVAS/blob/main/Screenshot/Screenshot%20(16).png)
+![Screenshot (16)](https://user-images.githubusercontent.com/72722093/156774218-b5856dd8-491c-487f-8e38-ca9018b7a0bc.png)
 
 Air Canvas, a project built in python, is a computer vision project using Mediapipe which is a 
 cross-platform framework for building multimodal applied machine learning pipeline. 
@@ -144,6 +145,7 @@ Sushil Dhakal - [@LinkedIN](https://www.linkedin.com/in/sushil-dhakal-5ab5a621a/
 Email - [@Email]-boyc50714@gmail.com
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/Sushil3125/AIR-CANVAS)
+![Screenshot 2](https://user-images.githubusercontent.com/72722093/156774255-28d57b4c-a081-425c-b699-f40e4cd78624.png)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
